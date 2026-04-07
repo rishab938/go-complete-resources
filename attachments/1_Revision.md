@@ -1,6 +1,3 @@
-Here is your **fully summarized + merged table** where the questions are mapped into the same **Why | What is | Example** structure for quick revision.
-
----
 
 ## Golang Interview Summary Table (Questions → Concepts)
 
@@ -68,3 +65,55 @@ Here is your **fully summarized + merged table** where the questions are mapped 
 | **Scheduling Issues**          | To optimize performance         | Starvation/preemption                  | Long-running goroutine   |
 | **Worker Pool**                | To scale tasks                  | Fixed workers process jobs             | Jobs channel             |
 | **Fan-In Fan-Out**             | To handle pipelines             | Multiple producers/consumers           | Merge channels           |
+
+
+---
+
+## Golang Golden Lines (Top 20)
+
+1. **“Go is designed for simplicity, concurrency, and performance.”**
+
+2. **“Don’t communicate by sharing memory; share memory by communicating.”**
+
+3. **“Goroutines are lightweight threads managed by the Go runtime.”**
+
+4. **“Channels are used for communication, mutex is used for protection.”**
+
+5. **“Concurrency is about structure, parallelism is about execution.”**
+
+6. **“Go uses an M:N scheduler (G-M-P model) to manage goroutines efficiently.”**
+
+7. **“An unbuffered channel is synchronous; a buffered channel is asynchronous.”**
+
+8. **“Sending or receiving on a channel blocks until the other side is ready.”**
+
+9. **“Closing a channel signals no more values; reads return zero value.”**
+
+10. **“Interfaces in Go are implemented implicitly, not explicitly.”**
+
+11. **“Interface defines behavior, not data.”**
+
+12. **“Error in Go is just an interface, not an exception system.”**
+
+13. **“Defer statements execute in LIFO order after the function returns.”**
+
+14. **“Use pointer receivers when you want to modify the original value.”**
+
+15. **“Maps are not thread-safe; use mutex or sync mechanisms.”**
+
+16. **“Race conditions occur due to unsynchronized access to shared memory.”**
+
+17. **“Deadlock happens when all goroutines are blocked indefinitely.”**
+
+18. **“Context is used to control cancellation, timeout, and request lifecycle.”**
+
+19. **“WaitGroup is used to wait for multiple goroutines to complete.”**
+
+20. **“Atomic operations provide lock-free concurrency for simple cases.”**
+
+---
+
+## How to Use These
+
+* Use **2–3 lines naturally in answers**, not all at once
+* Combine with **code examples** for strong impact
