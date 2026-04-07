@@ -24,3 +24,7 @@ https://www.codechef.com/learn/course/polaris-golang4/GO06/problems/POLGOPRO90?f
 - https://www.codechef.com/learn/course/polaris-golang4/GO06/problems/POLGOPRO91
 - https://www.codechef.com/learn/course/polaris-golang4/GO06/problems/POLGOPRO92
 - https://www.codechef.com/learn/course/polaris-golang4/GO06/problems/POLGOPRO95A?folder=%2Fhome%2Fchef%2Fworkspace
+
+  ## Interview Prep
+  - https://github.com/get2harshit/go-complete-resources/blob/main/attachments/2_InterviewPrep.md
+  - https://github.com/get2harshit/go-complete-resources/blob/main/attachments/1_Revision.md
