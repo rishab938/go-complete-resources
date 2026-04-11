@@ -1,3 +1,12 @@
+## Practice Questions before 2st Evaluation (Important) (Latest)
+1. Waitgroup [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-WaitGroup/pingPong.go]
+2. Wait.Go() 
+3. Worker [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/worker.go]
+4. Worker Pool [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/workerPool.go]
+5. Race Condition [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Race%20Condition%20%26%20Deadlock/raceCondition.go]
+6. Deadlock [https://github.com/get2harshit/go-complete-resources/blob/main/starter_code/deadlock.go]
+
+
 ## Practice Questions before Mid-sem Exam (Important)
 
 https://www.codechef.com/learn/course/polaris-golang4/GO05/problems/POLGOPRO71
