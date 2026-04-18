@@ -2,7 +2,16 @@
 1. Context.WithCancel [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/contextWithCancel.go]
 2. Context.WithTimeout [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/contextWithCancel.go]
 3. net/http server [https://github.com/get2harshit/go-complete-resources/tree/main/code/AfterMidSem-Backend/Gin]
-4. Gin Server [https://github.com/get2harshit/go-complete-resources/tree/main/code/AfterMidSem-Backend/Gin]
+4. Gin Server [https://github.com/get2harshit/go-complete-resources/tree/main/code/AfterMidSem-Backend/Gin], [https://www.codechef.com/learn/course/polaris-golang4/GO08/problems/POLGOPRO111?folder=%2Fhome%2Fchef%2Fworkspace], [https://www.codechef.com/learn/course/polaris-golang4/GO08/problems/POLGOPRO111B?folder=%2Fhome%2Fchef%2Fworkspace]
+5. https://www.codechef.com/learn/course/polaris-golang4/GO07/problems/POLGOPRO100
+6. https://www.codechef.com/learn/course/polaris-golang4/GO07/problems/POLGOPRO106
+7. https://www.codechef.com/learn/course/polaris-golang4/GO09/problems/POLGOPRO113?folder=%2Fhome%2Fchef%2Fworkspace
+8. https://www.codechef.com/learn/course/polaris-golang4/GO09/problems/POLGOPRO115?folder=%2Fhome%2Fchef%2Fworkspace
+9. https://www.codechef.com/learn/course/polaris-golang4/GO09/problems/POLGOPRO122
+10. https://www.codechef.com/learn/course/polaris-golang4/GO09/problems/POLGOPRO126
+11. https://www.codechef.com/learn/course/polaris-golang4/GO09/problems/POLGOPRO131
+12. https://www.codechef.com/learn/course/polaris-golang4/GO10/problems/POLGOPRO143
+13. https://www.codechef.com/learn/course/polaris-golang4/GO10/problems/POLGOPRO143A
 
 
 ## Practice Questions before 2st Evaluation (Important)
