@@ -1,4 +1,11 @@
-## Practice Questions before 2st Evaluation (Important) (Latest)
+## Practice Questions before 3rd Evaluation (Important) (Latest)
+1. Context.WithCancel [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/contextWithCancel.go]
+2. Context.WithTimeout [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/contextWithCancel.go]
+3. net/http server [https://github.com/get2harshit/go-complete-resources/tree/main/code/AfterMidSem-Backend/Gin]
+4. Gin Server [https://github.com/get2harshit/go-complete-resources/tree/main/code/AfterMidSem-Backend/Gin]
+
+
+## Practice Questions before 2st Evaluation (Important)
 1. Waitgroup [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-WaitGroup/pingPong.go]
 2. Wait.Go() 
 3. Worker [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/worker.go]
