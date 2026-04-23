@@ -1,3 +1,7 @@
+## HLD Preparation
+1. System Design Repo: https://github.com/get2harshit/system-design-lld-hld-complete-resources/tree/main
+2. Complete 5 Modules of Learning Path: https://www.codechef.com/learn/course/polaris-hld4
+
 ## Practice Questions before 3rd Evaluation (Important) (Latest)
 1. Context.WithCancel [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/contextWithCancel.go]
 2. Context.WithTimeout [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/contextWithCancel.go]
